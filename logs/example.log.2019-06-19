@@ -1,0 +1,214 @@
+[INFO ] 06-19-2019 15:59:58 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 16:00:58 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_tmp___
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_tmp___
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_old___
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_tmp___
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java
+[INFO ] 06-19-2019 16:02:51 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_old___
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_tmp___
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_tmp___
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_old___
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_tmp___
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java
+[INFO ] 06-19-2019 16:02:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/main/java/pl/edu/mimuw/kd209238/example/WatchDir.java___jb_old___
+[INFO ] 06-19-2019 16:19:03 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 16:19:22 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:22 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test1.swpx
+[INFO ] 06-19-2019 16:19:22 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test1.swpx
+[INFO ] 06-19-2019 16:19:22 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:22 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:22 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:26 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test1~
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1~
+[INFO ] 06-19-2019 16:19:28 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test1.swpx
+[INFO ] 06-19-2019 16:19:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test1.swpx
+[INFO ] 06-19-2019 16:19:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:35 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test1~
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1~
+[INFO ] 06-19-2019 16:19:55 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test1.swp
+[INFO ] 06-19-2019 16:20:21 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:20:27 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:20:52 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 16:20:52 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 16:21:06 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 16:23:37 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 16:24:23 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 16:24:40 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder ...
+[INFO ] 06-19-2019 16:24:40 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 16:25:08 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 16:25:27 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:01:17 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 17:04:00 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./test/dummyfolder ...
+[INFO ] 06-19-2019 17:04:00 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 17:04:50 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./test/dummyfolder ...
+[INFO ] 06-19-2019 17:04:50 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 17:06:11 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder ...
+[INFO ] 06-19-2019 17:06:11 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 17:06:21 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:06:21 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:06:38 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:06:38 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:06:38 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:06:38 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/testdir/recurtest
+[INFO ] 06-19-2019 17:10:29 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 17:10:41 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder/test1 ...
+[INFO ] 06-19-2019 17:10:41 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 17:11:05 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 17:11:41 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 17:11:41 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/mtest
+[INFO ] 06-19-2019 17:15:03 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 17:18:35 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder/test1 ...
+[INFO ] 06-19-2019 17:18:35 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 17:18:41 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder ...
+[INFO ] 06-19-2019 17:18:41 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 17:19:07 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/mtest
+[INFO ] 06-19-2019 17:19:07 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 17:19:07 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/mtest
+[INFO ] 06-19-2019 17:19:07 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 17:54:07 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 18:12:23 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder ...
+[INFO ] 06-19-2019 18:12:23 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 18:12:50 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 18:12:50 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 18:13:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 18:13:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 18:13:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir2
+[INFO ] 06-19-2019 18:13:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir2
+[INFO ] 06-19-2019 18:13:29 pl.edu.mimuw.kd209238.example.WatchDir register - update: ./src/test/dummyfolder/testdir -> ./src/test/dummyfolder/testdir2
+[INFO ] 06-19-2019 18:13:29 pl.edu.mimuw.kd209238.example.WatchDir register - update: ./src/test/dummyfolder/testdir -> ./src/test/dummyfolder/testdir2
+[INFO ] 06-19-2019 18:25:05 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 18:25:12 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder ...
+[INFO ] 06-19-2019 18:25:12 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 18:25:36 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/testdir2
+[INFO ] 06-19-2019 18:25:36 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/testdir2
+[INFO ] 06-19-2019 18:25:36 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 18:25:36 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 18:25:36 pl.edu.mimuw.kd209238.example.WatchDir register - update: ./src/test/dummyfolder/testdir2 -> ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 18:25:36 pl.edu.mimuw.kd209238.example.WatchDir register - update: ./src/test/dummyfolder/testdir2 -> ./src/test/dummyfolder/testdir
+[INFO ] 06-19-2019 18:26:18 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 18:26:18 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 18:26:32 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 18:26:32 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 18:26:32 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 18:26:32 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:22:27 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 19:22:27 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test1
+[INFO ] 06-19-2019 19:22:27 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:22:27 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:23:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:23:59 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:24:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:24:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:27:01 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:27:01 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:27:09 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:27:09 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:27:09 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:27:09 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:13 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:17 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:17 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:24 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:24 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:28:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swpx
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:29 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:31 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/4913
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_CREATE: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/test2
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_MODIFY: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/test2~
+[INFO ] 06-19-2019 19:29:34 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/.test2.swp
+[INFO ] 06-19-2019 19:43:41 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 19:43:45 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 19:44:35 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 19:44:52 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 19:44:56 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
+[INFO ] 06-19-2019 19:44:59 pl.edu.mimuw.kd209238.example.WatchDir <init> - Scanning ./src/test/dummyfolder ...
+[INFO ] 06-19-2019 19:44:59 pl.edu.mimuw.kd209238.example.WatchDir <init> - Done.
+[INFO ] 06-19-2019 19:45:14 pl.edu.mimuw.kd209238.example.WatchDir processEvents - ENTRY_DELETE: ./src/test/dummyfolder/ros.txt
+[INFO ] 06-19-2019 19:45:24 pl.edu.mimuw.kd209238.example.WatchDir run - Exiting...
